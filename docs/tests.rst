@@ -107,7 +107,7 @@ database::
 
 There is also a ``--sql-echo`` commandline option which will echo all executed SQL
 statements to the console. This must be used in combination with pytests' ``-s``
-option to make the console output visisble.
+option to make the console output visible.
 
 ::
 
